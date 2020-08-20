@@ -5,7 +5,7 @@ var playerCount;
 
 var database;
 
-var form, player, game;
+var game;
 
 
 function setup(){
